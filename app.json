@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "ss-app",
+    "slug": "ss-app",
+    "extra": {
+      "eas": {
+        "projectId": "f4c64226-2273-4115-bb2d-564e088efd61"
+      }
+    },
+    "android": {
+      "package": "com.fibonachi.ssapp"
+    },
+    "ios": {
+      "bundleIdentifier": "com.fibonachi.ssapp"
+    }
+  }
+}
